@@ -1,0 +1,25 @@
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+}
+body {
+    background-color: rgb(40, 51, 218);
+    font-family: Georgia;
+    font-size: larger;
+   
+}
+
+
+   
+   
